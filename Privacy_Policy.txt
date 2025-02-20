@@ -1,0 +1,73 @@
+PRIVACY POLICY
+(Last Updated 21, May, 2024)
+1. General
+This mobile application with the name of My Lucky Days (hereinafter referred as “App”) is created and operated by Kushmanda Tech LLC (hereinafter referred as “We, us, Our”) that is incorporated under the laws of State of California. We are committed in protecting and respecting your privacy. We collect your data in accordance with the IT Act, 2000 (21 of 2000) and Privacy laws of California. which relates in processing personal data.
+Downloading, accessing or otherwise using this App indicates that you have read this Privacy Policy and also consent for its terms. If you do not consent to the terms of the Privacy Policy, do not download, access or otherwise use the App.
+We collect your data to process, improve and provide services.
+Our privacy policy is subject to change at any time without notice. To make sure that you are aware of the changes, please review the policy periodically. The last updated date can be found at the beginning of this policy.
+All partners, employee working with and for Us, and who have access to your personal information is expected to read and comply with this policy. No third- party can process or access your personal information held by Us without entering into a confidentiality agreement.
+2. HOW WE COLLECT THE INFORMATION:
+we collect the information directly from you through this App when you visit this App.
+
+3. INFORMATION WE COLLECT:
+We collect information from you to perform our services. The data which is collected is processed in the App to give the final output expected from the App. The data we collect may include your device type, IP address, Name, Age, Date of Birth, Place of birth, Contact & other details. We will retain your information with us to provide and improve our services as per such period mandated by law.
+
+4. HOW DO WE USE YOUR INFORMATION:
+To personalise your services and to make recommendations.
+To improve our services and business
+Provide prediction services
+Provide customer support and respond to your request and comments.
+Protect against fraudulent and illegal activities.
+To recommend via email on the latest and upcoming new services and applications offered by Us.
+5. DATA TRANSFER:
+Information from our use is an important part of our business, we will take due care. We do not share your data to any third-party. We may employee individuals to perform various functions within the organisation to provide the services as per your need.
+
+6. SECURITY OF YOUR INFORMATION
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+7. DISCLOSURE OF YOUR INFORMATION
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+
+By Law or to Protect Rights
+If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+
+Marketing Communications
+With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
+
+Third-Party Advertisers
+We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the Application that are contained in cookies in order to provide advertisements about goods and services of interest to you.
+
+Affiliates
+We may share your information with our affiliates, in which case we will require those affiliates to honour this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+
+Sale or Bankruptcy
+If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy.
+
+We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
+
+8. POLICY FOR CHILDREN
+We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data, we have collected from children under age 13, please contact us using the contact information provided below. If you are under the age of 18 or of the majority in the jurisdiction in which you reside, you may only use the Our App with the consent of your parents or your legal guardian. In any case We will not be liable for any cause of action arising out of the non-compliance of this clause.
+
+9. CALIFORNIA PRIVACY RIGHTS
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Application, you have the right to request removal of unwanted data that you publicly post on the Application. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Application, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+10. TRACKING TECHNOLOGIES
+Cookies - We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience. When you access the Application, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Application. However, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis.
+
+11. CONTROLS FOR DO-NOT-TRACK FEATURES
+Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+
+12. OPTIONS REGARDING YOUR INFORMATION
+Account Information You may at any time review or change the information in your account or terminate your account by contacting us using the contact information provided below Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.Emails and Communications If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by contacting us using the contact information provided below If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+13. App's use and transfer to any other app of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+14. CONTACT US
+If you have questions or comments about this Privacy Policy, please contact us at:
+Kushmanda Tech LLC
+
+10609 caminito alvarez, San Diego, CA 92126 USA
+
++1 (760) 659 0487
+
+contact@kushmanda.tech
